@@ -25,27 +25,27 @@ and evaluate shipping efficiency using Power BI.
 ## 📊 Dashboard Pages
 
 ### Page 1 — Executive Summary
-![Executive Summary](screenshots/page1-executive-summary.png)
+![Executive Summary](Screenshots/Page1_ExecutiveSummary.png)
 - KPI Cards: Total Sales, Profit, Margin, Orders
 - Sales & Profit Trend Line Chart
 - Sales by Region Bar Chart
 
 ### Page 2 — Product Analysis
-![Product Analysis](screenshots/page2-product-analysis.png)
+![Product Analysis](Screenshots/Page2_ProductAnalysis.png)
 - Sales by Sub-Category
 - Profit Treemap
 - Sales vs Profit Scatter Plot
 - Top 10 Products Table
 
 ### Page 3 — Geographic Analysis
-![Geographic Analysis](screenshots/page3-geographic-analysis.png)
+![Geographic Analysis](Screenshots/Page3_GeographicAnalysis.png)
 - Sales by Country Map
 - Top 10 Countries by Sales
 - Profit by Region
 - Sales by Market
 
 ### Page 4 — Shipping & Operations
-![Shipping Operations](screenshots/page4-shipping-operations.png)
+![Shipping Operations](Screenshots/Page4_Shipping&Operations.png)
 - Orders by Ship Mode
 - Avg Days to Ship by Ship Mode
 - Sales & Profit by Segment
